@@ -1,4 +1,7 @@
-package br.com.java_servlet_alura.servlet;
+package br.com.gerenciador.servlet;
+
+import br.com.gerenciador.modelo.Banco;
+import br.com.gerenciador.modelo.Empresa;
 
 import java.io.IOException;
 
